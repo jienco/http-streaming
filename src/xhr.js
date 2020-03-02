@@ -35,6 +35,8 @@ const xhrFactory = function() {
       }
     }
 
+    options.withCredentials = true;
+
     const request = videojsXHR(options, function(error, response) {
       const reqResponse = request.response;
 
