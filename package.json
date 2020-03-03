@@ -1,5 +1,5 @@
 {
-  "name": "@videojs/http-streaming",
+  "name": "@jienco/http-streaming",
   "version": "1.11.0-alpha.1",
   "description": "Play back HLS and DASH with Video.js, even where it's not natively supported",
   "main": "dist/videojs-http-streaming.cjs.js",
